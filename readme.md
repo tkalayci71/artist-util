@@ -14,7 +14,7 @@ This extension helps you:
 
 Download ![artist-util-main.zip](https://github.com/tkalayci71/artist-util/archive/refs/heads/main.zip) and extract into extensions folder.
 
-[also to see example images you need to extract .zip files in images folder]
+[also to see example images you need to extract 4 .zip files in images folder]
 
 # Customization
 
@@ -26,4 +26,5 @@ you can:
 * add images in /data/assorted/ folder (set SHOW_ASSORTED = True in script)
 * edit some other options in the script, such as HTML export options
 
+note: after changing any files or folders, click "Reload UI" button in settings tab
 

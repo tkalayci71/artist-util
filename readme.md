@@ -15,6 +15,7 @@ This extension helps you:
 Download ![artist-util-main.zip](https://github.com/tkalayci71/artist-util/archive/refs/heads/main.zip) (~52MB) and extract into extensions folder.
 
 [also to see example images you need to extract 4 .zip files in images folder]
+note: example names.txt contains 229 artist names and some arbitrary categorization
 
 # Customization
 
